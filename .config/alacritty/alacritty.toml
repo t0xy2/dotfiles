@@ -1,0 +1,74 @@
+
+[window]
+padding = { x = 8, y = 8 }
+opacity = 0.85
+
+[font]
+normal = { family = "DaddyTimeMonoNerdFont", style = "Regular" }
+bold = { family = "DaddyTimeMonoNerdFont", style = "Regular" }
+size = 9
+
+[colors.primary]
+background            = "#000000"
+foreground            = "#b8b9b4"
+dim_foreground        = "#000000"
+bright_foreground     = "#ffffff"
+
+[colors.cursor]
+text                  = "#ffffff"
+cursor                = "#ffffff"
+
+[colors.vi_mode_cursor]
+text                  = "#ffffff"
+cursor                = "#ffffff"
+
+[colors.search.matches]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.search.focused_match]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.hints.start]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.hints.end]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.line_indicator]
+#foreground            = "None"
+#background            = "None"
+
+[colors.footer_bar]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.selection]
+text                  = "#ffffff"
+background            = "#111111"
+
+[colors.normal]
+black   = "#1a1a1a"
+red     = "#555555"  # used to be red
+green   = "#666666"  # used to be green
+yellow  = "#777777"  # used to be yellow
+blue    = "#888888"  # used to be blue
+magenta = "#999999"  # used to be magenta
+cyan    = "#aaaaaa"  # used to be cyan
+white   = "#ffffff"
+
+[colors.bright]
+black   = "#2a2a2a"
+red     = "#666666"
+green   = "#777777"
+yellow  = "#888888"
+blue    = "#999999"
+magenta = "#aaaaaa"
+cyan    = "#bbbbbb"
+white   = "#ffffff"
+
+[cursor.style]
+shape = "Beam"

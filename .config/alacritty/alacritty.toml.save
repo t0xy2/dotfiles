@@ -1,0 +1,33 @@
+[window]
+padding = { x = 8, y = 8 }
+
+[font]
+normal = { family = "DaddyTimeMonoNerdFont", style = "Regular" }
+bold = { family = "DaddyTimeMonoNerdFont", style = "Regular" }
+size = 8
+
+[colors.primary]
+background            = "#000000"
+foreground            = "#b8b9b4"
+dim_foreground        = "#000000"
+bright_foreground     = "#ffffff"
+
+[colors.cursor]
+text                  = "#ffffff"
+cursor                = "#ffffff"
+
+[colors.vi_mode_cursor]
+text                  = "#ffffff"
+cursor                = "#ffffff"
+
+[colors.search.matches]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.search.focused_match]
+foreground            = "#ffffff"
+background            = "#111111"
+
+[colors.hints.start]
+foreground            = "#ffffff"
+k
