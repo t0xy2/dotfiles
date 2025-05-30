@@ -1,9 +1,4 @@
-/**
- * Oxide Color theme
- * Author: Diki Ananta <diki1aap@gmail.com>
- * Repository: https://github.com/dikiaap/dotfiles
- * License: MIT
- **/
+
 * {
     selected-normal-foreground:  var(lightfg);
     foreground:                  rgba ( 184, 185, 180, 100 % );

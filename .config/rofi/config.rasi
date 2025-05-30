@@ -6,7 +6,7 @@ configuration {
     display-drun: "Search";
 }
 
-@theme "oxide"
+@theme "theme"
 
 listview {
     lines: 5;
